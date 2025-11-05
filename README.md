@@ -4,6 +4,7 @@ Bienvenue sur mon ePortfolio personnel, développé dans le cadre de ma formatio
 Ce site présente mon parcours académique, mes projets, mes expériences, mes compétences en informatique et mon CV.
 
 🔗 **Accès direct au site :** [https://linxingt.github.io/](https://linxingt.github.io/)
+🔗 **NOUVELLE version du site :** [https://xingtong.vercel.app/](https://xingtong.vercel.app/)
 
 ---
 
