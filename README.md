@@ -3,8 +3,9 @@
 Bienvenue sur mon ePortfolio personnel, développé dans le cadre de ma formation en BUT Informatique (2e année). 
 Ce site présente mon parcours académique, mes projets, mes expériences, mes compétences en informatique et mon CV.
 
-🔗 **Accès direct au site :** [https://linxingt.github.io/](https://linxingt.github.io/)
-🔗 **NOUVELLE version du site :** [https://xingtong.vercel.app/](https://xingtong.vercel.app/)
+🔗 **Accès direct au site** : [https://linxingt.github.io/](https://linxingt.github.io/)
+
+🔗 **NOUVELLE version du site** (en cours) : [https://xingtong.vercel.app/](https://xingtong.vercel.app/)
 
 ---
 
