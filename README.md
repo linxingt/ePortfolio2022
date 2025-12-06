@@ -10,7 +10,7 @@ Ce site sert de **référence historique** et présente mon parcours académique
 
 Pour accéder à mes travaux les plus récents, mon parcours actualisé, et mes compétences actuelles, veuillez consulter la **nouvelle version** de mon ePortfolio, finalisée en **Décembre 2025** :
 
-🔗 **NOUVELLE version du site** : [https://xingtong.vercel.app/](https://xingtong.vercel.app/)
+🔗 **NOUVELLE version du site** : [https://linxingt.github.io/](https://linxingt.github.io/)
 
 ---
 
